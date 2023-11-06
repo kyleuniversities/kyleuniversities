@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hey, I'm Kyle 👋
+
+---
+
+I'm A software engineer who loves solving complex problems effectively and a team player who values his
+team members and strives to make good product in an integral way.
+
+- 💻 My website: kyleuniversities.com
+- 📫 How to reach me: kyleuniversities@gmail.com
+- ⚡ Fun fact: I also love anime, playing music, and fiction writing!
 
 <!--
 **kyleuniversities/kyleuniversities** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
